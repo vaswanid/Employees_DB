@@ -11,17 +11,24 @@ been made to the database during testing.
 
 The sql files has answers to the questions below : 
 • return complete information about the employees
+
 • find the salaries of all employees
+
 • Find the average salary by employee title, round to 2 decimal places and order
 by descending order.
+
 • list the employees’ name, increased their salary by 15%, and expressed as
 number of Dollars
+
 • list the employee's name and job name as a format of "Employee & Job“
+
 • Find all the employees that have worked in at least 2 departments. Show their
 first name, last_name and the number of departments they work in. Display all
 results in ascending order.
+
 • find those employees with hire dates in 1991. Return employee ID, employee
 name, salary, hire date
+
 • Display the first name, last name, and salary of the 10 highest payed employee.
 
 
