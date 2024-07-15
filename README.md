@@ -5,6 +5,10 @@ In addition to the base data, the Employees database also includes a suite of te
 data that you have loaded. This should help ensure the quality of the data during initial load and can be used after usage to ensure that no changes have
 been made to the database during testing.
 
+
+
+
+
 The sql files has answers to the questions below : 
 • return complete information about the employees
 • find the salaries of all employees
